@@ -12,4 +12,9 @@ public class FirstClass {
         System.out.println("hahahah");
         System.out.println("hahahah");
     }
+
+
+    public void test(){
+        int a =100;
+    }
 }
